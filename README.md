@@ -1,8 +1,8 @@
 # OSC-Medical-Analysis-Application-Using-ML
 
-This project focuses on tuberculosis (TB) detection using Convolutional Neural Networks (CNNs) on X-ray images. The X-ray images have been downloaded from Kaggle and will be used to train and evaluate the performance of the CNN model.
+This project focuses on pneumonia detection using Convolutional Neural Networks (CNNs) on X-ray images. The X-ray images have been downloaded from Kaggle and will be used to train and evaluate the performance of the CNN model.
 
-The implementation will make use of popular deep learning frameworks such as TensorFlow or PyTorch. The architecture of the CNN model will be defined, followed by the training and evaluation of the model on the X-ray images. The performance of the model will be compared to traditional image classification models to showcase the effectiveness of using CNNs for TB detection.
+The implementation will make use of popular deep learning frameworks such as TensorFlow or PyTorch. The architecture of the CNN model will be defined, followed by the training and evaluation of the model on the X-ray images. The performance of the model will be compared to traditional image classification models to showcase the effectiveness of using CNNs for pneumonia detection.
 
 
 ## Star ⭐ and Fork the repository to earn bonus points.
